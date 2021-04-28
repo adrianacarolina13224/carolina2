@@ -1,0 +1,37 @@
+ <HTML>
+<HEAD>
+<TITLE>LIBRO</TITLE>
+
+</head >
+ <center>
+<FONT COLOR="black"><h1><b> LOS SIMPSON Y LAS MATEMATICAS</h1></b></FONT>
+<br>
+<h2><a href="file:///C:/Users/admin/Documents/HTML/capitulo1.html" style="color:FF0000;">Capitulo 0</a></h2>
+
+<h2><a href="file:///C:/Users/admin/Documents/HTML/capitulo2.html"  style="color:FF0000;">Capitulo 1</a></h2>
+
+<h2><a href="file:///C:/Users/admin/Documents/HTML/capitulo3.html"  style="color:FF0000;"">Capitulo 2</a></h2>
+
+<h2><a href="file:///C:/Users/admin/Documents/HTML/capitulo4.html"  style="color:FF0000;"">Capitulo 3</a></h2>
+
+<h2><a href="file:///C:/Users/admin/Documents/HTML/capitulo5.html" style="color:FF0000;">Capitulo 4</a></h2>
+
+<h2><a href="file:///C:/Users/admin/Documents/HTML/capitulo6.html" style="color:FF0000;">Capitulo 5</a></h2>
+
+<h2><a href="file:///C:/Users/admin/Documents/HTML/capitulo7.html" style="color:FF0000;">Capitulo 6</a></h2>
+
+<h2><a href="file:///C:/Users/admin/Documents/HTML/capitulo8.html" style="color:FF0000;">Capitulo 7</a></h2>
+
+<h2><a href="file:///C:/Users/admin/Documents/HTML/capitulo9.html" style="color:FF0000;">Capitulo 8</a></h2>
+<BR>
+<h2><a href="file:///C:/Users/admin/Documents/HTML/simpson.html" style=color:black;">PARA AGREGAR UN COMENTARIO HAGA CLIC AQUI</a></h2>
+<br>
+<h2><FONT COLOR="#8E2323">CBTIS 222</H2>
+<H2>Hernandez Magdalena Adriana Carolina    4"M"</h2></b></FONT>
+
+<br>
+
+
+<body background="YT.GIF">
+</body>
+</html>
